@@ -1,0 +1,45 @@
+# Projectile Animation
+
+## Author
+Jeremiah E. Ochepo
+
+## Last Updated
+[Date]
+
+## Description
+
+The Projectile Animation program is a simple projectile motion simulation with a launcher that can shoot projectiles towards a target. The goal is to hit the target accurately within a limited number of shots.
+
+## Features
+
+- Adjustable launcher angle and velocity using arrow keys.
+- Fire projectiles using the 'f' key.
+- Limited number of shots to make the simulation challenging.
+- Target visualization for aiming.
+
+## How to Use
+
+1. Run the program.
+2. Use arrow keys to adjust the launcher angle and velocity.
+3. Press 'f' to fire a projectile.
+4. Try to hit the target accurately within the limited number of shots.
+
+## Controls
+
+- **Up Arrow:** Increase launcher angle.
+- **Down Arrow:** Decrease launcher angle.
+- **Right Arrow:** Increase launcher velocity.
+- **Left Arrow:** Decrease launcher velocity.
+- **'f':** Fire a projectile.
+
+## Exit
+
+- Press 'q' or 'Q' to exit the program.
+
+## Report
+
+- At the end of the simulation, a report is displayed showing the total number of shots, misses, hits, hit percentage, and a grade based on the hit percentage.
+
+---
+
+Feel free to customize this README based on any specific details or additional features you may want to highlight.
